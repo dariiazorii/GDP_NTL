@@ -1,0 +1,37 @@
+CNTR_ID,NAME_ENGL,n_years_available,n_missing_gdp,missing_years,complete_2012_2025,include
+LI,Liechtenstein,12,2,"[2012, 2025]",False,True
+AL,Albania,14,0,[],True,True
+AT,Austria,14,0,[],True,True
+BE,Belgium,14,0,[],True,True
+BA,Bosnia and Herzegovina,14,0,[],True,True
+BG,Bulgaria,14,0,[],True,True
+HR,Croatia,14,0,[],True,True
+CY,Cyprus,14,0,[],True,True
+CZ,Czechia,14,0,[],True,True
+DK,Denmark,14,0,[],True,True
+EE,Estonia,14,0,[],True,True
+FI,Finland,14,0,[],True,True
+FR,France,14,0,[],True,True
+DE,Germany,14,0,[],True,True
+EL,Greece,14,0,[],True,True
+HU,Hungary,14,0,[],True,True
+IS,Iceland,14,0,[],True,True
+IE,Ireland,14,0,[],True,True
+IT,Italy,14,0,[],True,True
+LV,Latvia,14,0,[],True,True
+LT,Lithuania,14,0,[],True,True
+LU,Luxembourg,14,0,[],True,True
+MT,Malta,14,0,[],True,True
+ME,Montenegro,14,0,[],True,True
+NL,Netherlands,14,0,[],True,True
+MK,North Macedonia,14,0,[],True,True
+NO,Norway,14,0,[],True,True
+PL,Poland,14,0,[],True,True
+PT,Portugal,14,0,[],True,True
+RO,Romania,14,0,[],True,True
+RS,Serbia,14,0,[],True,True
+SK,Slovakia,14,0,[],True,True
+SI,Slovenia,14,0,[],True,True
+ES,Spain,14,0,[],True,True
+SE,Sweden,14,0,[],True,True
+CH,Switzerland,14,0,[],True,True
